@@ -15,4 +15,5 @@ Libraries used to generate Vector Embeddings: sentence-transformers/clip-ViT-B-3
 
 # Link to Documentation:
 https://huggingface.co/google/siglip-base-patch16-256-multilingual
+
 https://huggingface.co/sentence-transformers/clip-ViT-B-32-multilingual-v1
