@@ -7,8 +7,8 @@ from benchmark_util import create_images_list
 def get_data():
     logging.info("setting up db configuration")
     db_config = {
-        'user': 'root',
-        'password': 'root',
+        'user': '',
+        'password': '',
         'host': 'localhost',
         'database': 'articles'
     }
