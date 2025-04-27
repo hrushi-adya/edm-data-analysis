@@ -7,7 +7,7 @@
 ***
 * Technology Stack
   - Language: Python
-  - Database: MySQL Server
+  - Database: MySQL
   - Libraries used: Sentence Transformers, PIL, MYSQL
 ***
 * Libraries used to generate Vector Embeddings:
